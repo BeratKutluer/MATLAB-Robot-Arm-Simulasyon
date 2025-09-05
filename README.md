@@ -4,7 +4,7 @@
 This project simulates a robotic arm performing an object sorting task. Developed entirely in MATLAB, it serves as a practical demonstration of fundamental robotics and control system principles.
 
 <p align="center">
-  <img src="robot_animasyonu.gif" alt="Robot Animation">
+  <img src=https://github.com/BeratKutluer/MATLAB-Robot-Arm-Simulasyon/blob/main/RobotObjectSortingAnimation.gif?raw=true>
 </p>
 
 ## Key Skills Demonstrated
