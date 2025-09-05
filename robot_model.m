@@ -43,10 +43,10 @@ figure;
 hold on;
 grid on;
 axis equal;
-xlabel('X Axis'); % Ekseni ingilizceye çeviriyorum
-ylabel('Y Axis'); % Ekseni ingilizceye çeviriyorum
-zlabel('Z Axis'); % Ekseni ingilizceye çeviriyorum
-title('Robot Object Sorting Animation'); % Başlığı İngilizceye çevirdim
+xlabel('X Axis'); 
+ylabel('Y Axis'); 
+zlabel('Z Axis');
+title('Robot Object Sorting Animation');
 view(3);
 
 % Farkli nesnelerin yeni ve GUVENLI hedef pozisyonlari
@@ -122,4 +122,5 @@ else
     imwrite(imind, cm, filename, 'gif', 'WriteMode', 'append', 'DelayTime', 0.05);
 end
     end
+
 end
